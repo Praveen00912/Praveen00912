@@ -86,7 +86,7 @@
 
 Check my daily coding progress here:
 
-👉 https://github.com/praveenkumarreddy2627/programs
+👉 https://github.com/Praveen00912/PraveenJavaprograms100
 
 ---
 
