@@ -82,6 +82,21 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Praveen's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+</p>
+
+
 ### 🔥 Daily Coding Practice Repository
 
 Check my daily coding progress here:
