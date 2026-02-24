@@ -18,7 +18,7 @@
 - 📊 Interested in **Software Development and Data Analysis**
 - ⚡ Fun fact: I love solving programming problems daily
 
----
+----
 
 ### 📫 Contact Me
 
@@ -29,7 +29,7 @@
 
 ### 🌐 My Projects
 
-- Lightning Protection Device using Arduino
+- Protection Device from Lightning Strike using Arduino
 - Message Scheduler using Python and Flask
 - Road Hazard Detection using Edge Intelligence
 - Daily Java Practice Programs
