@@ -9,85 +9,6 @@
 
 ---
 
-### 📊 GitHub Stats (Radical Theme)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=radical&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-----
-
-### 📊 GitHub Stats (TokyoNight Theme)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
----
-
-### 📊 GitHub Stats (Dracula Theme)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=dracula&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=dracula&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=dracula&hide_border=true" height="170"/>
-</p>
----
-
-### 📊 GitHub Stats (Merko Theme)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=merko&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=merko&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=merko&hide_border=true" height="170"/>
-</p>
----
-
-### 📊 GitHub Stats (High Contrast)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=highcontrast&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=highcontrast&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=highcontrast&hide_border=true" height="170"/>
-</p>
----
-
-### 📊 GitHub Stats (Transparent Theme)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=transparent&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
-</p>
----
-
 ### 🚀 About Me
 
 - 🎓 B.Tech in Electronics and Communication Engineering (2021–2025)
@@ -161,19 +82,73 @@
 </p>
 
 ---
+### 📊 GitHub Stats (TokyoNight Theme)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+---
+
+### 📊 GitHub Stats (Radical Theme)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+----
+
+### 📊 GitHub Stats (TokyoNight Theme)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+---
+
+### 📊 GitHub Stats (Merko Theme)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=merko&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=merko&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=merko&hide_border=true" height="170"/>
+</p>
+---
 
 ### 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Praveen00912&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -187,22 +162,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true&border_radius=10" height="170"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Praveen00912&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
