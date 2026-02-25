@@ -112,14 +112,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -128,6 +120,13 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
+</p>
+
+---
 
 ### 🔥 Daily Coding Practice Repository
 
