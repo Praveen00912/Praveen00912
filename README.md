@@ -91,6 +91,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Praveen00912&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -108,6 +116,14 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Praveen00912&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
