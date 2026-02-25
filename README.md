@@ -24,6 +24,7 @@
 
 - Email: praveenkumarreddy2627@gmail.com
 - LinkedIn: https://linkedin.com/in/praveenreddy
+- https://github.com/Praveen00912
 
 ---
 
