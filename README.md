@@ -93,18 +93,19 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
+
 ----
-
-### 📊 GitHub Stats (Merko Theme)
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=merko&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=merko&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=merko&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -119,19 +120,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Praveen00912&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen00912&theme=radical&hide_border=true&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
 
 ---
