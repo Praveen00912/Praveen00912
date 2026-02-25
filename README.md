@@ -83,6 +83,14 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -93,6 +101,16 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen00912&layout=compact&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
+</p>
+
+---
 
 
 ### 🔥 Daily Coding Practice Repository
