@@ -61,8 +61,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/jses6-original.svg" width="40" height="40"/>
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 </p>
@@ -123,3 +121,5 @@ Check my daily coding progress here:
 ---
 
 ⭐ From Praveen Kumar Reddy
+
+⭐ Top 2 Software Developer
