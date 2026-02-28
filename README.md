@@ -44,8 +44,11 @@
 <a href="https://linkedin.com/in/praveenreddy" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
+  
+<a href="https://github.com/Praveen00912" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
+</a>
 </p>
-### 🤝 Connect with me
 
 <p align="left">
 
