@@ -25,8 +25,8 @@
 - Email: praveenkumarreddy2627@gmail.com
 - LinkedIn: https://linkedin.com/in/praveenreddy
 - GitHub: https://github.com/Praveen00912
-- - LeetCode: https://leetcode.com/u/Praveen_Kumar78/
-
+- LeetCode: https://leetcode.com/u/Praveen_Kumar78/
+- HackerRank: https://www.hackerrank.com/profile/praveenkumarre28
 ---
 
 ### 🌐 My Projects
