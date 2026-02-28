@@ -48,17 +48,6 @@
 <a href="https://github.com/Praveen00912" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
 </a>
-</p>
-
-<p align="left">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/praveenreddy" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
-</a>
 
 <a href="https://leetcode.com/u/Praveen_Kumar78/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" />
