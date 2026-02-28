@@ -45,7 +45,39 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
 </p>
+### 🤝 Connect with me
 
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/praveenreddy" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Praveen_Kumar78/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/praveenkumarre28" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" width="40" />
+</a>
+
+<a href="https://youtube.com/YOUR_CHANNEL" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="40" />
+</a>
+
+</p>
 ---
 
 ### 💻 Languages and Tools
