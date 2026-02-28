@@ -57,7 +57,7 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" width="40" />
 </a>
 
-<a href="https://youtube.com/YOUR_CHANNEL" target="blank">
+<a href="https://www.youtube.com/@praveenkumarreddy52" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" width="40" />
 </a>
 
