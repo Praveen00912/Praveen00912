@@ -72,6 +72,44 @@
 </p>
 ---
 
+<p align="left">
+  <!-- LinkedIn (Fixed URL) -->
+  <a href="https://linkedin.com/in/praveenreddy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  </a>
+  
+  <!-- GitHub (Fixed Path) -->
+  <a href="https://github.com/Praveen00912" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net" height="40" width="40" />
+  </a>
+
+  <!-- LeetCode (Fixed: Added proper raw link) -->
+  <a href="https://leetcode.com/u/Praveen_Kumar78/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com" height="40" width="40" />
+  </a>
+
+  <!-- HackerRank (Fixed: Added proper raw link) -->
+  <a href="https://www.hackerrank.com/profile/praveenkumarre28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com" height="40" width="40" />
+  </a>
+
+  <!-- YouTube (Using standardized icon library) -->
+  <a href="https://www.youtube.com/@praveenkumarreddy52" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com" height="40" width="40" />
+  </a>
+
+  <!-- Instagram (Fixed URL) -->
+  <a href="https://www.instagram.com/praveen00912/?hl=en" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com" height="40" width="40" />
+  </a>
+
+  <!-- Facebook (Fixed URL) -->
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com" height="40" width="40" />
+  </a>
+</p>
+---
+
 ### 💻 Languages and Tools
 
 <p align="left"> 
