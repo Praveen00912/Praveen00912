@@ -37,7 +37,6 @@
 - Daily Java Practice Programs
 - fgfeshryhtrsb
 - afeghjm,
-- t53yrjuktiy.u/ilkjhg
 
 ---
 
