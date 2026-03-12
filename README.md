@@ -38,8 +38,6 @@
 - fgfeshryhtrsb
 - afeghjm,
 - t53yrjuktiy.u/ilkjhg
-- twyejrkutilu;lkjyhtgrfed
-- 4t5y6u7ilo/.k,jmn
 
 ---
 
