@@ -38,7 +38,6 @@
 - juhygfrtdesw
 - njkhygtfr56t
 - 869451648
-- koiu8y7t6r5e4swzxdcfv
 
 ---
 
