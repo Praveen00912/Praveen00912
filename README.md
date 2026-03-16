@@ -35,8 +35,6 @@
 - Message Scheduler using Python and Flask
 - Road Hazard Detection using Edge Intelligence
 - Daily Java Practice Programs
-- juhygfrtdesw
-
 
 ---
 
