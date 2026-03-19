@@ -36,8 +36,6 @@
 - Road Hazard Detection using Edge Intelligence
 - Daily Java Practice Programs
 - oe8w38rw
-- ei7r5622
-- ifedjobz
 
 ---
 
